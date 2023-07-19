@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: <a href='https://www.cmu.edu/'>Carnegie Mellon University</a>
 
-name: Ziqi Wen
 profile:
   align: right
   image: prof_pic.jpg
