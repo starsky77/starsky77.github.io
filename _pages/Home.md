@@ -3,6 +3,7 @@ layout: about
 title: Home
 permalink: /
 subtitle: <a href='https://www.cmu.edu/'>Carnegie Mellon University</a>, School of Computer Science (SCS)
+cv_pdf: resume_ziqi.pdf
 
 profile:
   align: right
@@ -22,7 +23,7 @@ I'm currently a graduate student in <a href='https://www.cmu.edu/'>Carnegie Mell
 
 My current research primarily concentrates on the inherent biases towards shape and texture in different computer vision models. It has been shown that human vision exhibits a profound bias towards shapes, utilizing geons and compositional reasoning to excel in generalizing across vastly distinct domains. Drawing inspiration from the complex functioning of the visual cortex in processing image information, our objective is to construct a deep learning model that can effectively comprehend the global shape within images. The culmination of this endeavor aims to yield a model that can exhibit increased robustness and demonstrates superior generalization capacity.
 
-
+Refer to my <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank">resume</a> for more detail.
 
 <!-- I'm a second-year graduate student in <a href='https://www.cmu.edu/'>Carnegie Mellon University (CMU)</a>, pursing the <a href="https://mcds.cs.cmu.edu/">Master of Computational Data Science (MCDS)</a> degree of the Language Technologies Institute (LTI) in the School of Computer Science (SCS). Currently I'm doing research under supervision of Prof.<a href='https://www.cnbc.cmu.edu/~tai/'>Tai Sing Lee </a>. Before attened CMU, I have received me bachelor’s degree in Computer Science and Technology from Zhejiang University (ZJU) in China. I was also minor in psychology during undergradeate studying.
 
