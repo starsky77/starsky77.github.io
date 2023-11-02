@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: <a href='https://www.cmu.edu/'>Carnegie Mellon University</a>, School of Computer Science (SCS)
 
@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  address: 5000 Forbes Ave, Pittsburgh, PA, 15213
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -18,12 +18,10 @@ social: true  # includes social icons at the bottom of the page
 
 <!-- TODO: Refine this part for PhD application -->
 
-
-I'm currently a graduate student in <a href='https://www.cmu.edu/'>Carnegie Mellon University (CMU)</a>, pursing the <a href="https://mcds.cs.cmu.edu/">Master of Computational Data Science (MCDS)</a> degree of the **Language Technologies Institute (LTI)** in the **School of Computer Science (SCS)**. Currently I'm doing research under supervision of Prof.<a href='https://www.cnbc.cmu.edu/~tai/'>Tai Sing Lee </a>. Before attened CMU, I have received me bachelor’s degree in Computer Science and Technology from **Zhejiang University (ZJU)** in China. I was also minor in psychology during undergradeate studying.
+I'm currently a graduate student in <a href='https://www.cmu.edu/'>Carnegie Mellon University (CMU)</a>, pursing the <a href="https://mcds.cs.cmu.edu/">Master of Computational Data Science (MCDS)</a> degree of the **Language Technologies Institute (LTI)** in the **School of Computer Science (SCS)**. Currently I'm doing research under supervision of Prof.<a href='https://www.cnbc.cmu.edu/~tai/'>Tai Sing Lee </a>. Before attened CMU, I have received me bachelor’s degree in Computer Science and Technology from **Zhejiang University (ZJU)** in China, supervised by Prof.<a href='https://zhpcui.github.io/'>Zhaopeng Cui</a>. I was also minor in psychology during undergradeate studying.
 
 My current research primarily concentrates on the inherent biases towards shape and texture in different computer vision models. It has been shown that human vision exhibits a profound bias towards shapes, utilizing geons and compositional reasoning to excel in generalizing across vastly distinct domains. Drawing inspiration from the complex functioning of the visual cortex in processing image information, our objective is to construct a deep learning model that can effectively comprehend the global shape within images. The culmination of this endeavor aims to yield a model that can exhibit increased robustness and demonstrates superior generalization capacity.
 
-Before attending CMU, I have worded in State Key Laboratory of CAD & CG at Zhejiang University, supervised by Prof. Zhaopeng Cui <a href='https://zhpcui.github.io/'>Zhaopeng Cui</a>. Our research centered around 3D vision and Automated Machine Learning (AutoML). Our primary objective was to enhance the efficiency of models dealing with large-scale point cloud segmentation problems while maintain the accuracy of the model. Specifically, we utilized an efficient neighborhood gathering technique to improve the efficiency of Dynamic Graph CNN (DGCNN) apply one-shot Neural Architecture Search (NAS) to search for the optimal structure of the network.
 
 
 <!-- I'm a second-year graduate student in <a href='https://www.cmu.edu/'>Carnegie Mellon University (CMU)</a>, pursing the <a href="https://mcds.cs.cmu.edu/">Master of Computational Data Science (MCDS)</a> degree of the Language Technologies Institute (LTI) in the School of Computer Science (SCS). Currently I'm doing research under supervision of Prof.<a href='https://www.cnbc.cmu.edu/~tai/'>Tai Sing Lee </a>. Before attened CMU, I have received me bachelor’s degree in Computer Science and Technology from Zhejiang University (ZJU) in China. I was also minor in psychology during undergradeate studying.
