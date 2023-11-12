@@ -11,7 +11,7 @@ description:
 
 
 
-<!-- @article{wen2023does,
+@article{wen2023does,
   title={Does resistance to Style-Transfer equal Shape Bias? Evaluating Shape Bias by Distorted Shape},
   author={Wen, Ziqi and Li, Tianqin and Lee, Tai Sing},
   journal={arXiv preprint arXiv:2310.07555},
@@ -19,4 +19,4 @@ description:
   arxiv={2310.07555},
   preview={DiST.png},
   selected={true}
-} -->
+}
