@@ -2,14 +2,14 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://www.cmu.edu/'>Carnegie Mellon University</a>, School of Computer Science (SCS)
+subtitle: <a href=' https://www.ucsb.edu/'> University of California, Santa Barbara (UCSB), Computer Science Department
 cv_pdf: resume_ziqi.pdf
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: 5000 Forbes Ave, Pittsburgh, PA, 15213
+  address: 3806 Psychology East
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,11 +19,15 @@ social: true  # includes social icons at the bottom of the page
 
 <!-- TODO: Refine this part for PhD application -->
 
-I'm currently a graduate student in <a href='https://www.cmu.edu/'>Carnegie Mellon University (CMU)</a>, pursing the <a href="https://mcds.cs.cmu.edu/">Master of Computational Data Science (MCDS)</a> degree of the **Language Technologies Institute (LTI)** in the **School of Computer Science (SCS)**. Currently I'm doing research under supervision of Prof.<a href='https://www.cnbc.cmu.edu/~tai/'>Tai Sing Lee </a>. Before attened CMU, I have received me bachelor’s degree in Computer Science and Technology from **Zhejiang University (ZJU)** in China, supervised by Prof.<a href='https://zhpcui.github.io/'>Zhaopeng Cui</a>. I was also minor in psychology during undergraduate studying.
+
+I’m currently a first year Computer Science PhD Student at <a href=' https://www.ucsb.edu/'> University of California, Santa Barbara (UCSB)</a>, advised by Professor <a href=' https://psych.ucsb.edu/people/faculty/miguel-eckstein'> Miguel Eckstein</a> in Vision and Image Understanding Lab (VIU). 
+
+Before attending UCSB, I earned my master degree <a href="https://mcds.cs.cmu.edu/">Master of Computational Data Science (MCDS)</a> degree of the **Language Technologies Institute (LTI)** in the **School of Computer Science (SCS)** at <a href='https://www.cmu.edu/'>Carnegie Mellon University (CMU)</a>. advised by Prof.<a href='https://www.cnbc.cmu.edu/~tai/'>Tai Sing Lee </a>. Before attened CMU, I have received me bachelor’s degree in Computer Science and Technology from **Zhejiang University (ZJU)** in China, supervised by Prof.<a href='https://zhpcui.github.io/'>Zhaopeng Cui</a>. I was also minor in psychology during undergraduate studying.
 
 My current research primarily concentrates on the inherent biases towards shape and texture in different computer vision models. It has been shown that human vision exhibits a profound bias towards shapes, utilizing geons and compositional reasoning to excel in generalizing across vastly distinct domains. Drawing inspiration from the complex functioning of the visual cortex in processing image information, our objective is to construct a deep learning model that can effectively comprehend the global shape within images. The culmination of this endeavor aims to yield a model that can exhibit increased robustness and demonstrates superior generalization capacity.
 
 Refer to my <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank">resume</a> for more detail.
+
 
 <!-- I'm a second-year graduate student in <a href='https://www.cmu.edu/'>Carnegie Mellon University (CMU)</a>, pursing the <a href="https://mcds.cs.cmu.edu/">Master of Computational Data Science (MCDS)</a> degree of the Language Technologies Institute (LTI) in the School of Computer Science (SCS). Currently I'm doing research under supervision of Prof.<a href='https://www.cnbc.cmu.edu/~tai/'>Tai Sing Lee </a>. Before attened CMU, I have received me bachelor’s degree in Computer Science and Technology from Zhejiang University (ZJU) in China. I was also minor in psychology during undergradeate studying.
 
