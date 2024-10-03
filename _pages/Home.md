@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 <!-- TODO: Refine this part for PhD application -->
 
 
-I’m currently a first year Computer Science PhD Student at <a href=' https://www.ucsb.edu/'> University of California, Santa Barbara (UCSB)</a>, advised by Professor <a href=' https://psych.ucsb.edu/people/faculty/miguel-eckstein'> Miguel Eckstein</a> in Vision and Image Understanding Lab (VIU). 
+I’m currently a first year Computer Science PhD Student at <a href=' https://www.ucsb.edu/'> University of California, Santa Barbara (UCSB)</a>, advised by Professor <a href=' https://psych.ucsb.edu/people/faculty/miguel-eckstein'> Miguel Eckstein</a> in <a href=' https://viu.psych.ucsb.edu/'> Vision and Image Understanding Lab (VIU)</a>. 
 
 Before attending UCSB, I earned my master degree <a href="https://mcds.cs.cmu.edu/">Master of Computational Data Science (MCDS)</a> degree of the **Language Technologies Institute (LTI)** in the **School of Computer Science (SCS)** at <a href='https://www.cmu.edu/'>Carnegie Mellon University (CMU)</a>. advised by Prof.<a href='https://www.cnbc.cmu.edu/~tai/'>Tai Sing Lee </a>. Before attened CMU, I have received me bachelor’s degree in Computer Science and Technology from **Zhejiang University (ZJU)** in China, supervised by Prof.<a href='https://zhpcui.github.io/'>Zhaopeng Cui</a>. I was also minor in psychology during undergraduate studying.
 
