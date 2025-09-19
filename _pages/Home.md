@@ -21,7 +21,6 @@ social: true  # includes social icons at the bottom of the page
 
 I started my Computer Science PhD study in 24 Fall at <a href=' https://www.ucsb.edu/'> University of California, Santa Barbara (UCSB)</a>, advised by Professor <a href=' https://psych.ucsb.edu/people/faculty/miguel-eckstein'> Miguel Eckstein</a> in <a href=' https://viu.psych.ucsb.edu/'> Vision and Image Understanding Lab (VIU)</a>.
 
-
 My research interests lie at the intersection of computer vision and cognitive psychology. Currently, I focuses on developing computational models for human scene understanding. I am also interested in the emergent behavior of deep learning models that align with or differ from human behavior, and investigating what's the reason behind that.
 
 Before attending UCSB, I earned my master degree <a href="https://mcds.cs.cmu.edu/">Master of Computational Data Science (MCDS)</a> degree of the **Language Technologies Institute (LTI)** in the **School of Computer Science (SCS)** at <a href='https://www.cmu.edu/'>Carnegie Mellon University (CMU)</a>. advised by Prof.<a href='https://www.cnbc.cmu.edu/~tai/'>Tai Sing Lee </a>. Before attened CMU, I have received me bachelor’s degree in Computer Science and Technology from **Zhejiang University (ZJU)** in China, supervised by Prof.<a href='https://zhpcui.github.io/'>Zhaopeng Cui</a>. I was also minor in Psychology during undergraduate studying.
