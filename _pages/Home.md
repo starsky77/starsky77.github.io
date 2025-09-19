@@ -11,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: 3806 Psychology East
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -19,12 +19,12 @@ social: true  # includes social icons at the bottom of the page
 
 <!-- TODO: Refine this part for PhD application -->
 
+I started my Computer Science PhD study in 24 Fall at <a href=' https://www.ucsb.edu/'> University of California, Santa Barbara (UCSB)</a>, advised by Professor <a href=' https://psych.ucsb.edu/people/faculty/miguel-eckstein'> Miguel Eckstein</a> in <a href=' https://viu.psych.ucsb.edu/'> Vision and Image Understanding Lab (VIU)</a>.
 
-I’m currently a first year Computer Science PhD Student at <a href=' https://www.ucsb.edu/'> University of California, Santa Barbara (UCSB)</a>, advised by Professor <a href=' https://psych.ucsb.edu/people/faculty/miguel-eckstein'> Miguel Eckstein</a> in <a href=' https://viu.psych.ucsb.edu/'> Vision and Image Understanding Lab (VIU)</a>. 
 
-My current research interests lie in the interdisciplinary field of computer vision and cognitive psychology. Specifically, does the model behave similarly or differently compared with humans across different visual cognitive tasks? And what causes the similarities or differences? Can we refine the model with the inspiration from Neuronscience and cognitive psychology? Can have a better model of human visual process with deep neural network?
+My research interests lie at the intersection of computer vision and cognitive psychology. Currently, I focuses on developing computational models for human scene understanding. I am also interested in the emergent behavior of deep learning models that align with or differ from human behavior, and investigating what's the reason behind that.
 
-Before attending UCSB, I earned my master degree <a href="https://mcds.cs.cmu.edu/">Master of Computational Data Science (MCDS)</a> degree of the **Language Technologies Institute (LTI)** in the **School of Computer Science (SCS)** at <a href='https://www.cmu.edu/'>Carnegie Mellon University (CMU)</a>. advised by Prof.<a href='https://www.cnbc.cmu.edu/~tai/'>Tai Sing Lee </a>. Before attened CMU, I have received me bachelor’s degree in Computer Science and Technology from **Zhejiang University (ZJU)** in China, supervised by Prof.<a href='https://zhpcui.github.io/'>Zhaopeng Cui</a>. I was also minor in psychology during undergraduate studying.
+Before attending UCSB, I earned my master degree <a href="https://mcds.cs.cmu.edu/">Master of Computational Data Science (MCDS)</a> degree of the **Language Technologies Institute (LTI)** in the **School of Computer Science (SCS)** at <a href='https://www.cmu.edu/'>Carnegie Mellon University (CMU)</a>. advised by Prof.<a href='https://www.cnbc.cmu.edu/~tai/'>Tai Sing Lee </a>. Before attened CMU, I have received me bachelor’s degree in Computer Science and Technology from **Zhejiang University (ZJU)** in China, supervised by Prof.<a href='https://zhpcui.github.io/'>Zhaopeng Cui</a>. I was also minor in Psychology during undergraduate studying.
 
 <!-- My current research primarily concentrates on the inherent biases towards shape and texture in different computer vision models. It has been shown that human vision exhibits a profound bias towards shapes, utilizing geons and compositional reasoning to excel in generalizing across vastly distinct domains. Drawing inspiration from the complex functioning of the visual cortex in processing image information, our objective is to construct a deep learning model that can effectively comprehend the global shape within images. The culmination of this endeavor aims to yield a model that can exhibit increased robustness and demonstrates superior generalization capacity. -->
 
