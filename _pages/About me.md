@@ -32,3 +32,7 @@ Enjoy visiting bookstore and natural landscapes.
 *"It was but yesterday I thought myself a fragment quivering without rhythm in the sphere of life.*
 
 *Now I know that I am the sphere, and all life in rhythmic fragments moves within me."*   -- Kahlil Gibran
+
+## Something Fun
+
+* <a href="https://starsky77.github.io/worldview-instrument/" target="_blank">Worldview Instrument</a>: A short quiz for identifying your worldview type; created based purely on personal interpretation and intended for reference only (developed with the assistance of an LLM).
