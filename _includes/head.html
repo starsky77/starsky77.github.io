@@ -28,6 +28,16 @@
     <link rel="shortcut icon" href="{{ site.icon | prepend: '/assets/img/' | relative_url}}"/>
     {% endif %}
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/cogra/cogra.css' | relative_url }}">
+    <script>
+      // worn printing: the reader's own choice, else cogra_worn from _config.yml, else off if they ask the system for more contrast
+      (function () {
+        let worn = null;
+        try { worn = localStorage.getItem("cogra-worn"); } catch (e) {}
+        if (worn === null) worn = {{ site.cogra_worn | jsonify }} && !matchMedia("(prefers-contrast: more)").matches ? "1" : "0";
+        document.documentElement.classList.toggle("worn", worn === "1");
+      })();
+    </script>
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
     <!-- Dark Mode -->

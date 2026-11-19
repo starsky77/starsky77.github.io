@@ -94,6 +94,11 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+
+              <!-- Toggle worn printing -->
+              <li class="toggle-container cogra-controls">
+                <label class="worn-toggle" title="Text through the archival-scan filter, with dust specks"><input type="checkbox" id="worn-toggle"> worn</label>
+              </li>
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->

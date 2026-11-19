@@ -368,6 +368,8 @@ enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
+cogra_worn:                 true   # default for cogra "worn" printing: archival-scan filter on text plus dust specks
+                                   # (false gives clean type on white paper); visitors can still switch it in the navbar
 
 # -----------------------------------------------------------------------------
 # Library versions
